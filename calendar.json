@@ -1,1 +1,53 @@
-
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-14",
+  "timeZone": "America/New_York",
+  "coverageStart": "2026-10-01",
+  "coverageEnd": "2026-12-31",
+  "sourceURL": "https://portal.311.nyc.gov/article/?kanumber=KA-01011",
+  "holidays": [
+    {
+      "date": "2026-10-03",
+      "names": ["Shemini Atzeret"]
+    },
+    {
+      "date": "2026-10-04",
+      "names": ["Simchas Torah"]
+    },
+    {
+      "date": "2026-10-12",
+      "names": [
+        "Italian Heritage Day",
+        "Indigenous Peoples' Day"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "names": ["All Saints' Day"]
+    },
+    {
+      "date": "2026-11-03",
+      "names": ["Election Day"]
+    },
+    {
+      "date": "2026-11-08",
+      "names": ["Diwali"]
+    },
+    {
+      "date": "2026-11-11",
+      "names": ["Veterans Day"]
+    },
+    {
+      "date": "2026-11-26",
+      "names": ["Thanksgiving Day"]
+    },
+    {
+      "date": "2026-12-08",
+      "names": ["Immaculate Conception"]
+    },
+    {
+      "date": "2026-12-25",
+      "names": ["Christmas Day"]
+    }
+  ]
+}
